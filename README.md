@@ -1,7 +1,7 @@
 # Sales Performance Tracker & Data Analysis
 
 ## 📊 Project Overview
-This project focuses on analyzing sales and profit data for November 2024 to uncover actionable business insights. The analysis breaks down performance metrics across multiple dimensions, including product categories, regional sales, individual salesperson performance, and preferred payment methods. 
+This project focuses on analyzing sales and profit data for to uncover actionable business insights. The analysis breaks down performance metrics across multiple dimensions, including product categories, regional sales, individual salesperson performance, and preferred payment methods. 
 
 This repository contains the final analytical report and visualizations, demonstrating core data analyst skills in data aggregation, KPI tracking, and performance reporting.
 
